@@ -13,7 +13,7 @@ Este projeto utiliza as seguintes tecnologias
    <img width = "15%" alt = "JQUERY"  src= "https://github.com/gcpbarbudo/Assets/blob/main/JQUERY.png?raw=true">
 </div>
 
-## Desenvolvedor
+## Desenvolvedores
 * Kauã Bastos - [pingo700](https://github.com/pingo700)
 * Alisson Grilo - [alissongrilo](https://github.com/alissongrilo)
 * Gabriel Santos - [gabrielsan](https://github.com/gabrielsan)
