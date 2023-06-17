@@ -1,9 +1,5 @@
 # Amigo Secreto
 
-## Setup do projeto
-```
-php spark serve
-```
 ## Descrição do projeto
 Amigo secreto
 
